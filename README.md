@@ -1,5 +1,5 @@
 # React-Native-Ecoleta-Server
-Servidor criado utilizando SQLite3 para armazenamento das informações de ponto de coleta.
+Servidor criado utilizando SQLite3 para armazenamento das informações dos pontos de coleta.
 <br/>Para o cadastro dos pontos de coleta e testes utilize o [Insomnia Designer](https://insomnia.rest/download/) conforme os exemplos abaixo:<br/>
 >Cadastro dos pontos de coleta.
 ![insomia1](https://user-images.githubusercontent.com/37723303/85294978-ab84c580-b475-11ea-969b-45ff5d8925aa.jpg)<br/><br/>
